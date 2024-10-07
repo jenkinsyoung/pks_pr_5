@@ -27,7 +27,7 @@ class _FavoritePageState extends State<FavoritePage> {
       appBar: AppBar(
         title: const Center(
           child: Text(
-            'Настольные игры',
+            'Избранное',
             style: TextStyle(
               color: Color.fromRGBO(76, 23, 0, 1.0),
               fontSize: 28,
